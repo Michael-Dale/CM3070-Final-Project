@@ -56,6 +56,7 @@ The system supports both novice and advanced investors in making informed portfo
 ├── Flask Server.py           # Flask web server
 ├── clean_data.py             # Preprocessing script
 ├── backtest_results.csv      # Output of last test
+├── requirements.txt          # Dependencies to install
 └── README.md
 ```
 
