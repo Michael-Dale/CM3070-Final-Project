@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request
 import os
 from ml_models.predict_asset import train_and_predict
-from Cli_Portfolio_Ml import load_asset_data, generate_portfolio_weights
+from Cli_Portfolio_Ml import load_asset_data
 import pandas as pd
 import matplotlib
 matplotlib.use('Agg')
