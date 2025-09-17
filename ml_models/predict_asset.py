@@ -89,6 +89,16 @@ if __name__ == "__main__":
     results.append(train_and_predict("AAPL", "data/cleaned_data/AAPL_clean.csv"))
     results.append(train_and_predict("ETH", "data/cleaned_data/ETH_clean.csv"))
     results.append(train_and_predict("BTC", "data/cleaned_data/BTC_clean.csv"))
+    results.append(train_and_predict("BNB", "data/cleaned_data/BNB_clean.csv"))
+    results.append(train_and_predict("DOGE", "data/cleaned_data/DOGE_clean.csv"))
+    results.append(train_and_predict("JNJ", "data/cleaned_data/JNJ_clean.csv"))
+    results.append(train_and_predict("LITE", "data/cleaned_data/LITE_clean.csv"))
+    results.append(train_and_predict("SOL", "data/cleaned_data/SOL_clean.csv"))
+    results.append(train_and_predict("TRX", "data/cleaned_data/TRX_clean.csv"))
+    results.append(train_and_predict("TSLA", "data/cleaned_data/TSLA_clean.csv"))
+    results.append(train_and_predict("USD", "data/cleaned_data/USD_clean.csv"))
+    results.append(train_and_predict("XRP", "data/cleaned_data/XRP_clean.csv"))
+    
 
     # Print summary
     for r in results:
