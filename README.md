@@ -69,17 +69,22 @@ The system supports both novice and advanced investors in making informed portfo
    cd financial-advisor-bot
    ```
 
-2. **Run the CLI**
+2. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Run the CLI**
    ```bash
    python Cli_Portfolio_Ml.py
    ```
 
-3. **Run the Flask Web App**
+4. **Run the Flask Web App**
    ```bash
    python "Flask Server.py"
    ```
 
-4. **Access in browser**
+5. **Access in browser**
    Visit http://127.0.0.1:5000 to interact with the web interface.
 
 ---
