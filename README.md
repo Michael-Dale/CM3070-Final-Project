@@ -66,7 +66,7 @@ The system supports both novice and advanced investors in making informed portfo
 1. **Clone this repository**
    ```bash
    git clone https://github.com/Michael-Dale/CM3070-Final-Project.git
-   cd financial-advisor-bot
+   cd CM3070-Final-Project
    ```
 
 2. **Install dependencies**
